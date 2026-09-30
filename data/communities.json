@@ -1,0 +1,328 @@
+{
+  "_note": "SYNTHETIC DATA - unaffiliated portfolio project. Not affiliated with or endorsed by Aldar Properties. All figures invented and illustrative; not investment advice.",
+  "communities": [
+    {
+      "id": "yas-island",
+      "name": "Yas Island",
+      "zone": "Yas Island",
+      "description": "Leisure-led island destination with theme parks, golf and a marina.",
+      "lifestyle_tags": [
+        "family",
+        "golf",
+        "investment",
+        "waterfront"
+      ],
+      "avg_price_per_sqft_aed": 1450,
+      "typical_service_charge_aed_sqft_yr": 16.0,
+      "amenities": [
+        "golf course",
+        "theme parks",
+        "marina",
+        "beach club",
+        "retail"
+      ],
+      "commute_minutes": {
+        "Abu Dhabi Downtown": 30,
+        "Corniche": 32,
+        "Yas Island": 3,
+        "Reem": 22,
+        "Airport": 12
+      }
+    },
+    {
+      "id": "saadiyat-island",
+      "name": "Saadiyat Island",
+      "zone": "Saadiyat Island",
+      "description": "Cultural district with museums and natural beaches; premium coastal living.",
+      "lifestyle_tags": [
+        "beach",
+        "waterfront",
+        "quiet",
+        "schools-nearby",
+        "investment"
+      ],
+      "avg_price_per_sqft_aed": 2050,
+      "typical_service_charge_aed_sqft_yr": 22.0,
+      "amenities": [
+        "cultural museums",
+        "public beach",
+        "golf course",
+        "international schools"
+      ],
+      "commute_minutes": {
+        "Abu Dhabi Downtown": 18,
+        "Corniche": 16,
+        "Yas Island": 20,
+        "Reem": 15,
+        "Airport": 25
+      }
+    },
+    {
+      "id": "al-reem-island",
+      "name": "Al Reem Island",
+      "zone": "Al Reem Island",
+      "description": "High-rise waterfront urban island close to the city centre.",
+      "lifestyle_tags": [
+        "urban",
+        "waterfront",
+        "investment",
+        "schools-nearby"
+      ],
+      "avg_price_per_sqft_aed": 1350,
+      "typical_service_charge_aed_sqft_yr": 18.0,
+      "amenities": [
+        "waterfront promenade",
+        "malls",
+        "schools",
+        "parks"
+      ],
+      "commute_minutes": {
+        "Abu Dhabi Downtown": 10,
+        "Corniche": 8,
+        "Yas Island": 24,
+        "Reem": 1,
+        "Airport": 30
+      }
+    },
+    {
+      "id": "reem-hills",
+      "name": "Reem Hills",
+      "zone": "Al Reem Island",
+      "description": "Gated hillside villa community with lagoons and green terraces.",
+      "lifestyle_tags": [
+        "family",
+        "quiet",
+        "waterfront",
+        "investment"
+      ],
+      "avg_price_per_sqft_aed": 1600,
+      "typical_service_charge_aed_sqft_yr": 14.0,
+      "amenities": [
+        "lagoons",
+        "clubhouse",
+        "sports courts",
+        "gated security"
+      ],
+      "commute_minutes": {
+        "Abu Dhabi Downtown": 12,
+        "Corniche": 11,
+        "Yas Island": 26,
+        "Reem": 2,
+        "Airport": 32
+      }
+    },
+    {
+      "id": "alreeman",
+      "name": "Alreeman",
+      "zone": "Al Shamkha",
+      "description": "Master-planned residential land + villa community for families.",
+      "lifestyle_tags": [
+        "family",
+        "quiet",
+        "schools-nearby"
+      ],
+      "avg_price_per_sqft_aed": 850,
+      "typical_service_charge_aed_sqft_yr": 8.0,
+      "amenities": [
+        "community parks",
+        "mosques",
+        "retail strip",
+        "schools"
+      ],
+      "commute_minutes": {
+        "Abu Dhabi Downtown": 35,
+        "Corniche": 38,
+        "Yas Island": 30,
+        "Reem": 34,
+        "Airport": 20
+      }
+    },
+    {
+      "id": "ghadeer",
+      "name": "Ghadeer",
+      "zone": "Al Shamkha South",
+      "description": "Affordable family townhouse and villa neighbourhood on the city edge.",
+      "lifestyle_tags": [
+        "family",
+        "quiet",
+        "schools-nearby"
+      ],
+      "avg_price_per_sqft_aed": 700,
+      "typical_service_charge_aed_sqft_yr": 6.5,
+      "amenities": [
+        "parks",
+        "community centre",
+        "schools nearby"
+      ],
+      "commute_minutes": {
+        "Abu Dhabi Downtown": 40,
+        "Corniche": 42,
+        "Yas Island": 34,
+        "Reem": 38,
+        "Airport": 22
+      }
+    },
+    {
+      "id": "west-yas",
+      "name": "West Yas",
+      "zone": "Yas Island",
+      "description": "Spacious family villa community on the west of Yas Island.",
+      "lifestyle_tags": [
+        "family",
+        "golf",
+        "quiet",
+        "schools-nearby"
+      ],
+      "avg_price_per_sqft_aed": 1150,
+      "typical_service_charge_aed_sqft_yr": 11.0,
+      "amenities": [
+        "community pools",
+        "gym",
+        "school",
+        "retail centre"
+      ],
+      "commute_minutes": {
+        "Abu Dhabi Downtown": 33,
+        "Corniche": 35,
+        "Yas Island": 6,
+        "Reem": 25,
+        "Airport": 15
+      }
+    },
+    {
+      "id": "al-raha-beach",
+      "name": "Al Raha Beach",
+      "zone": "Al Raha",
+      "description": "Waterfront apartment canals district near the airport corridor.",
+      "lifestyle_tags": [
+        "waterfront",
+        "urban",
+        "beach",
+        "investment"
+      ],
+      "avg_price_per_sqft_aed": 1250,
+      "typical_service_charge_aed_sqft_yr": 17.0,
+      "amenities": [
+        "canals",
+        "marina",
+        "beach",
+        "retail",
+        "restaurants"
+      ],
+      "commute_minutes": {
+        "Abu Dhabi Downtown": 25,
+        "Corniche": 27,
+        "Yas Island": 12,
+        "Reem": 20,
+        "Airport": 10
+      }
+    },
+    {
+      "id": "al-ghadeer-gardens",
+      "name": "Al Ghadeer Gardens",
+      "zone": "Abu Dhabi Border",
+      "description": "Entry-level apartment community on the Abu Dhabi-Dubai border.",
+      "lifestyle_tags": [
+        "investment",
+        "quiet",
+        "family"
+      ],
+      "avg_price_per_sqft_aed": 620,
+      "typical_service_charge_aed_sqft_yr": 9.0,
+      "amenities": [
+        "community pool",
+        "gym",
+        "retail",
+        "parks"
+      ],
+      "commute_minutes": {
+        "Abu Dhabi Downtown": 45,
+        "Corniche": 47,
+        "Yas Island": 38,
+        "Reem": 42,
+        "Airport": 28
+      }
+    },
+    {
+      "id": "corniche-district",
+      "name": "Corniche District",
+      "zone": "Abu Dhabi City",
+      "description": "Prime central waterfront high-rises along the Corniche.",
+      "lifestyle_tags": [
+        "urban",
+        "waterfront",
+        "beach",
+        "investment"
+      ],
+      "avg_price_per_sqft_aed": 1500,
+      "typical_service_charge_aed_sqft_yr": 20.0,
+      "amenities": [
+        "corniche beach",
+        "promenade",
+        "fine dining",
+        "malls"
+      ],
+      "commute_minutes": {
+        "Abu Dhabi Downtown": 5,
+        "Corniche": 1,
+        "Yas Island": 30,
+        "Reem": 9,
+        "Airport": 33
+      }
+    },
+    {
+      "id": "masdar-city",
+      "name": "Masdar City",
+      "zone": "Masdar",
+      "description": "Sustainable-living urban district with walkable low-carbon design.",
+      "lifestyle_tags": [
+        "urban",
+        "quiet",
+        "investment",
+        "schools-nearby"
+      ],
+      "avg_price_per_sqft_aed": 980,
+      "typical_service_charge_aed_sqft_yr": 12.0,
+      "amenities": [
+        "green transport",
+        "university nearby",
+        "retail",
+        "parks"
+      ],
+      "commute_minutes": {
+        "Abu Dhabi Downtown": 28,
+        "Corniche": 30,
+        "Yas Island": 18,
+        "Reem": 24,
+        "Airport": 8
+      }
+    },
+    {
+      "id": "hudayriyat-island",
+      "name": "Hudayriyat Island",
+      "zone": "Hudayriyat",
+      "description": "Active-lifestyle coastal island with beaches and sports hubs.",
+      "lifestyle_tags": [
+        "beach",
+        "waterfront",
+        "family",
+        "quiet"
+      ],
+      "avg_price_per_sqft_aed": 1300,
+      "typical_service_charge_aed_sqft_yr": 15.0,
+      "amenities": [
+        "beaches",
+        "cycling tracks",
+        "sports complex",
+        "marina"
+      ],
+      "commute_minutes": {
+        "Abu Dhabi Downtown": 20,
+        "Corniche": 15,
+        "Yas Island": 35,
+        "Reem": 22,
+        "Airport": 38
+      }
+    }
+  ]
+}

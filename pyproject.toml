@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ad_property_advisor"
+version = "0.1.0"
+description = "Abu Dhabi property recommendation + investment-analytics engine (synthetic data; unaffiliated portfolio project)."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Aisan Mojahedi" }]
+dependencies = [
+    "pydantic>=2",
+    "fastapi",
+    "uvicorn",
+]
+
+[project.optional-dependencies]
+test = ["pytest", "httpx"]
+
+[project.scripts]
+ad-property-advisor = "ad_property_advisor.__main__:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+ad_property_advisor = ["py.typed"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
