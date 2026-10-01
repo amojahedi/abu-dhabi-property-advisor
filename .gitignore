@@ -12,3 +12,5 @@ node_modules/
 web/node_modules/
 web/.next/
 web/next-env.d.ts
+web/AGENTS.md
+web/CLAUDE.md
